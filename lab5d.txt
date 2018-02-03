@@ -1,0 +1,1 @@
+traader deler samme globale variabel så her telles den opp annen hver gang per thread

@@ -1,0 +1,3 @@
+Hvert forket prosess har eget minneområde så 
+den globale variabelen blir telt opp når 
+hver prosess får plass på CPUen
