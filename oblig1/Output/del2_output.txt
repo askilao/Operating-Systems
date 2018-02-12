@@ -1,0 +1,18 @@
+Hei. Tråd 2 har startet
+Den skal kjøre i 3 sekund
+Hei. Tråd 0 har startet
+Den skal kjøre i 1 sekund
+Tråd 0 ferdig
+Hei. Tråd 4 har startet
+Den skal kjøre i 3 sekund
+Hei. Tråd 1 har startet
+Den skal kjøre i 2 sekund
+Tråd 2 ferdig
+Tråd 1 ferdig
+Hei. Tråd 3 har startet
+Den skal kjøre i 2 sekund
+Tråd 4 ferdig
+Hei. Tråd 5 har startet
+Den skal kjøre i 3 sekund
+Tråd 3 ferdig
+Tråd 5 ferdig

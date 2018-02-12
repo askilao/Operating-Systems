@@ -1,0 +1,12 @@
+Prosess 0 kjorer
+Prosess 0 kjorte i 1 sekunder
+Prosess 2 kjorer
+Prosess 2 kjorte i 3 sekunder
+Prosess 1 kjorer
+Prosess 1 kjorte i 2 sekunder
+Prosess 4 kjorer
+Prosess 4 kjorte i 3 sekunder
+Prosess 3 kjorer
+Prosess 3 kjorte i 2 sekunder
+Prosess 5 kjorer
+Prosess 5 kjorte i 3 sekunder
