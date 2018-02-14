@@ -19,8 +19,8 @@ cpp --check-config ./oblig_del1_fork.c gir beskjed om at include files ikke er l
 Velger å gå til neste sjekk ettersom includefiles er lagt inn.
 
 Sjekk 2:
-clang-tidy-5.0 -checks='*' oblig_del1_fork.c -- -std=c11
-Returnerer at include files ikke er sortert riktig*
+clang-tidy-5.0 -checks=''*'' oblig_del1_fork.c -- -std=c11
+Returnerer at include files ikke er sortert riktig
 
 Sjekk 3:
 valgrind --leak-check=yes ./oblig_del1_fork
