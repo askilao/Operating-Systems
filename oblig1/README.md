@@ -1,5 +1,5 @@
-#Oblig 1 IMT2282 Operativsystemer
-####Askil Amundøy Olsen: 473152
+# Oblig 1 IMT2282 Operativsystemer
+#### Askil Amundøy Olsen: 473152
 
 **Del 1:**
 Kompilerer programmet med: 'gcc -Wall -o oblig del1_fork oblig_del1_fork.c'
