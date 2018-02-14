@@ -86,7 +86,7 @@ Brukt følgende
 *Gir tilbakemelding om at "the scope of variable n, j, j can be reduced"* <br>  
 
 - Sjekk 2: <br>
-`clang-tidy-5.0 -checks=\'*'\ oblig_del3_producerconsumer.c -- -std=c11` <br>
+`clang-tidy-5.0 -checks='*' oblig_del3_producerconsumer.c -- -std=c11` <br>
 *Gir 6 advarsler*<br>
 
 - Sjekk 3: <br>
