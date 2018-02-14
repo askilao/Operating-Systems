@@ -2,7 +2,7 @@
 #### Askil Amundøy Olsen: 473152
 
 ##### NB! diningphilosophers er ikke ment som en del av innleveringen, de 3 andre er oppgavene er det.
-###### Del 1:** <br>
+##### Del 1: <br>
 Kompilerer programmet med: <br>
 `gcc -Wall -o oblig del1_fork oblig_del1_fork.c`<br>
 Kjører programmet med: <br>
@@ -37,7 +37,7 @@ Velger å gå til neste sjekk ettersom includefiles er lagt inn.*<br>
 *Gir 0 errors*<br>
 
 
-###### Del2:<br>
+##### Del2:<br>
 kompilerer med: <br>
 `gcc -Wall -pthread -o oblig_del2_pthreads oblig_del2_pthreads.c`<br>
 Kjører med <br>
@@ -68,7 +68,7 @@ klarer ikke finne årsaken*<br>
 *Gir 0 errors*<br>
 
 
-###### Del 3: <br>
+##### Del 3: <br>
 kompilerer med: <br>
 `gcc -Wall -pthread -o oblig_del3_producerconsumer oblig_del3_producerconsumer.c` <br>
 Kjører med <br>
