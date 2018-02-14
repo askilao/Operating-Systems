@@ -1,6 +1,7 @@
 # Oblig 1 IMT2282 Operativsystemer
 #### Askil Amundøy Olsen: 473152
 
+##### NB! diningphilosophers er ikke ment som en del av innleveringen, de 3 andre er oppgavene er det.
 **Del 1:**
 Kompilerer programmet med: 'gcc -Wall -o oblig del1_fork oblig_del1_fork.c'
 Kjører programmet med: './oblig_del1_fork'
