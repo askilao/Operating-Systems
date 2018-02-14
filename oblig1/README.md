@@ -19,7 +19,7 @@ cpp --check-config ./oblig_del1_fork.c gir beskjed om at include files ikke er l
 Velger å gå til neste sjekk ettersom includefiles er lagt inn.
 
 Sjekk 2:
-clang-tidy-5.0 -checks=''*'' oblig_del1_fork.c -- -std=c11
+clang-tidy-5.0 -checks='*' oblig_del1_fork.c -- -std=c11
 Returnerer at include files ikke er sortert riktig
 
 Sjekk 3:
@@ -46,7 +46,7 @@ cppcheck --enable=all ./oblig_del2_pthreads.c
 Gir tilbakemelding om at includefiles ikke er lagt inn
 
 Sjekk 2:
-clang-tidy-5.0 -checks="'*'" oblig_del2_pthreads.c -- -std=c11
+clang-tidy-5.0 -checks='*' oblig_del2_pthreads.c -- -std=c11
 Gir tilbakemelding om at for løkken burde være inni brackets, som den her*
 
 Sjekk 3:
