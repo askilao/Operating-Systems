@@ -77,7 +77,7 @@ Output ligger i 'del3_output.txt'<br>
 Dette er laget med <br>
 `./oblig_del3_producerconsumer 2 > del3_output.txt`<br>
 
-**Kvalitetssjekker**
+**Kvalitetssjekker** <br>
 Brukt følgende
 > cppcheck, clang-tidy5.0 og valgrind
 
