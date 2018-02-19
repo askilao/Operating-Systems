@@ -1,0 +1,9 @@
+		VALGT:
+	1. Hvem er jeg og hva er navnet paa dette scriptet ?
+	2. Hvor lenge er det siden siste boot ?
+	3. Hvor mange prosesser og traader finnes?
+	4. Hvormange context switcher fant sted siste sekund
+	5. Hvor stor andel av CPU-tiden ble benyttet i kernel mode og i usermode siste sekund
+	6. Hvor mange interupts fant sted siste sekund
+	9. Avslutt dette scriptet
+
