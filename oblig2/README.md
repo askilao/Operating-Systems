@@ -12,7 +12,7 @@ Kan kjøres slik: <br>
 
 **Oblig del 1**<br>
 Kan kjøres med <br>
-`./myprocinfo.sh`
+`./myprocinfo.sh` <br>
 Filen `menu.txt` blir brukt her til å printe menyen i scriptet <br>
 
 **Oblig del 2**<br>
