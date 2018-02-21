@@ -17,7 +17,7 @@ Filen `menu.txt` blir brukt her til å printe menyen i scriptet <br>
 
 **Oblig del 2**<br>
 Kan kjøres med <br>
-`./chomemajPF.sh`
+`./chromemajPF.sh`
 
 **Oblig del 3**<br>
 Kan kjøres med <br>
