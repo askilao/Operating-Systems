@@ -3,7 +3,7 @@
 ### Askil Amundøy Olsen <br>
 
 **Verktøy brukt for kvalitetsikring** <br>
-> shellcheck <br>
+> [Shellcheck](https://github.com/koalaman/shellcheck) <br>
 
 Kan kjøres slik: <br>
 - `shellcheck myprocinfo.sh`
