@@ -1,0 +1,6 @@
+********* Minne info om prosess med PID 32680 *********
+Total bruk av virtualt minne (VmSize): 44784kb
+Mengde privat virtuelt minne (VmData + VmStk + VmExe): 624kb
+Menge shared virtuelt minne (VmLib): 5172kb
+Total bruk av fysisk minne (VmRss): 344kb
+Mengde fysisk minne som benyttes til page table (VmPTE): 104kb
