@@ -13,7 +13,7 @@ do	#menyen ligger i fil
 		2)echo "$(uptime | awk '{print $3}') time(r) siden boot"
 			;;
 		#ps aux lister prosesser linje for linje, saa telles de
-		3)echo "Det er $(ps aux | wc -l) prosesser og traader som kjorer"
+		3)echo "Det er $(ps -e -T | wc -l) prosesser og traader som kjorer"
 			;;
 		#Henter ut context switches venter et sekund og henter paa nytt sa substraherers de to
 		4)	first=$(grep ctxt /proc/stat | awk '{print $2}')

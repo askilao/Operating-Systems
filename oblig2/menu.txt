@@ -1,4 +1,5 @@
-		VALGT:
+		
+			VALG:
 	1. Hvem er jeg og hva er navnet paa dette scriptet ?
 	2. Hvor lenge er det siden siste boot ?
 	3. Hvor mange prosesser og traader finnes?
