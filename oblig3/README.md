@@ -4,7 +4,8 @@
 
 **Verktøy brukt for kvalitetsikring** <br>
 > [PSScriptAnalyzer](https://github.com/PowerShell/PSScriptAnalyzer) <br>
-Har fått tilbakemelding om å ikke bruke Write-Host og heller ikke bruke aliases. Dette har blitt endret på. <br>
+Har fått tilbakemelding om å ikke bruke `Write-Host`, bruker heller `Write-Output` <br>
+Får heller ikke bruke aliases *(? for Where-Object og echo for Write-Output)*. Dette har blitt endret på. <br>
 PSScriptAnalyzer returnerer nå ingenting.
 
 Kan kjøres slik: <br>
