@@ -10,7 +10,7 @@ do	#menyen ligger i fil
 		1) echo "Jeg er $(whoami) og scriptet heter $0"
 			;;
 		#uptime gir antall minutt og timer siden boot
-		2)echo "$(uptime | awk '{print $3}') time(r) siden boot"
+		2)echo "$(uptime | awk '{print $3, $4}') siden boot"
 			;;
 		#ps aux lister prosesser linje for linje, saa telles de
 		3)echo "Det er $(ps -e -T | wc -l) prosesser og traader som kjorer"
