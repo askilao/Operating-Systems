@@ -21,7 +21,7 @@ $ScriptName = & { split-path $MyInvocation.PSCommandPath -Leaf }
 $OSinfo = Get-CimInstance Win32_PerfFormattedData_PerfOS_System
 $CPUinfo = Get-CimInstance Win32_PerfFormattedData_Counters_ProcessorInformation | Where-Object {$_.Name -eq "_Total"}
 $Uptime =  [timespan]::fromseconds($OSinfo.SystemUpTime)
-$PrintUptime = "Uptime: " + $Uptime
+$PrintUptime = "Uptime(DD.HH.MM.SS): " + $Uptime
 
 switch ( $Valg )
 {
