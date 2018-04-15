@@ -23,4 +23,4 @@ Kan kjøres med <br>
 
 **Oblig del 3**<br>
 Kan kjøres med <br>
-`powershell.exe .\chromeThreadCount.ps1` + *prosess id*
+`powershell.exe .\chromeThreadCount.ps1` + *prosess id1,prosessid2,prosessid3.....prosessidn*
